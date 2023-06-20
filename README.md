@@ -22,5 +22,6 @@ This is a repository for all the tiny or challenge codes written in Python.
 
 ## Security 🔐
 - Leet Encryption [GO THERE!](./Security/Encryption/leet-encryption/leet-encryption.py)
+- AES Encryption
 - Password Generator [GO THERE!](./Security/Password/Generator/password_generator.py)
 - Password Strength Meter [GO THERE!](./Security/Password/Strength-Meter/password_strength_meter.py)
