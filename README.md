@@ -13,6 +13,10 @@ This is a repository for all the tiny or challenge codes written in Python.
 ## GitHub 🐈‍⬛
 - Commits Repository Information Collector [GO THERE!](./Github/repository-commits-info/git-github.py)
 
+## Operative System 💻
+- Creating Folders
+- Removing Folders
+
 ## ReactPy 🌐
 - First step on ReactPy [GO THERE!](./ReactPy/reactpy.py)
 
