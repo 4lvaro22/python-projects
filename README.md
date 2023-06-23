@@ -1,5 +1,7 @@
 # Python projects by 4lvaro22🔥
-This is a repository for all the tiny or challenge codes written in Python.
+This is a repository for all the tiny or challenge codes written in Python. The goal of this repository is to collect all this tiny Python Project in a only repository. 
+If you want to give me some ideas to do I'm open to hearing the them. 
+
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="140" height="136" frameBorder="0" align="center" />
 </p>
