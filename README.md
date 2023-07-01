@@ -16,14 +16,21 @@ If you want to give me some ideas to do I'm open to hearing the them.
 - Commits Repository Information Collector [GO THERE!](./Github/repository-commits-info/git-github.py)
 
 ## Operative System 💻
-- Creating Folders
-- Removing Folders
+- Creating Folders [GO THERE!](./Operative-System/Create-Folders/create-folders.py)
+- Removing Folders [GO THERE!](./Operative-System/Remove-Folders/remove-folders.py)
 
 ## ReactPy 🌐
 - First step on ReactPy [GO THERE!](./ReactPy/reactpy.py)
 
 ## Security 🔐
+### Encryption
 - Leet Encryption [GO THERE!](./Security/Encryption/leet-encryption/leet-encryption.py)
-- AES Encryption
+- AES Encryption [GO THERE!](./Security/Encryption/AES-Encryption/aes-encryption.py)
+- Caesar Encryption [GO THERE!](./Security/Encryption/Caesar-Encryption/caesar-encryption.py)
+
+### Password
 - Password Generator [GO THERE!](./Security/Password/Generator/password_generator.py)
 - Password Strength Meter [GO THERE!](./Security/Password/Strength-Meter/password_strength_meter.py)
+
+## Web Scraping 🕵️
+- Hola Mundo Day web  [GO THERE!](./Web-Scraping/hola-mundo-day.py)
